@@ -4,7 +4,11 @@ export const content = [
   "./src/**/*.{js,ts,jsx,tsx}",
 ];
 export const theme = {
-  extend: {},
+  extend: {
+    colors:{
+      blue:'#2997FF'
+    }
+  },
 };
 export const plugins = [];
 

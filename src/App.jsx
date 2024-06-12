@@ -1,15 +1,15 @@
-import Navbar from "./components/Navbar";
+import NavBar from "./components/NavBar" ;
 import Hero from "./components/Hero";
 import Highlights from "./components/Highlights";
-const  App = () => {
 
+function App ()  {
   return (
    <main className="bg-black">
-      <Navbar />
+      <NavBar />
       <Hero />
       <Highlights />
    </main>
-  )
+  );
 }
 
 export default App

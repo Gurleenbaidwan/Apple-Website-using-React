@@ -16,7 +16,7 @@ I'm a full stack developer
 
 ## Screenshots
 
-Check more Screenshots in image folder
+Check more Screenshots in imagefinal folder
 
 ## Tech Stack
 
